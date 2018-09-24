@@ -1,0 +1,29 @@
+body {
+	background-image: url('../images/map.jpg');
+	background-size: cover;	
+	margin-top: 20px;	 
+	text-align: center;
+	font-family: 'Special Elite', cursive;
+}
+
+h1 {
+	font-size: 25px;
+	color: #875fa6;
+}
+
+button {
+	background: #f14946;
+	border: none;
+	margin: 5px;
+	font-family: 'Advent Pro', sans-serif;
+	color:white;
+}
+
+#addCity {
+	background: #55bfbf;
+	border:none;
+}
+
+.giphy {
+	display: inline-block;
+}
